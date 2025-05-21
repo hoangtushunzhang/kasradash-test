@@ -34,7 +34,6 @@
 - **Zustand**: Selected for state management due to its simplicity and minimal boilerplate compared to other state management libraries like Redux.
 - **Tailwind CSS**: Utilized for styling due to its utility-first approach, which allows for rapid UI development and easy customization.
 
-If you have any questions or need further assistance, feel free to reach out!
 
 
 
