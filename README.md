@@ -1,4 +1,4 @@
-# Project Kasradash Test 
+# Kasradash Web React Test 
 
 ## How to Run the Project
 
