@@ -5,7 +5,7 @@
 1. **Clone the Repository**: 
    ```bash
    git clone <repository-url>
-   cd Kasradash-test/test-interview
+   cd <folder-name>
    ```
 
 2. **Install Dependencies**:
